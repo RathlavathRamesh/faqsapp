@@ -1,0 +1,26 @@
+/* Write your code here. */
+.bgCont {
+  background-color: #9aa5b1;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+.heading {
+  color: #cb8805;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 10vh;
+}
+
+.faqcards {
+  background-color: #ffffff;
+  width: 40vw;
+  margin-top: 2vh;
+  border-radius: 8px;
+  box-shadow: inset;
+}
+.items {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}

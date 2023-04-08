@@ -1,0 +1,37 @@
+/* Write your code here. */
+.Item {
+  list-style-type: none;
+  margin: 2vh;
+  border-width: 0.5px;
+  border-bottom: 0px;
+  border-radius: 15px;
+  width: 30vw;
+  border-style: solid;
+  border-color: #d7dae6;
+}
+.imgs {
+  height: 3vh;
+  margin-right: 2vh;
+  margin-top: 4vh;
+}
+.hedimg {
+  display: flex;
+  justify-content: space-between;
+}
+.textpara {
+  color: #9aa5b1;
+  font-size: 16px;
+  text-align: center;
+}
+.line {
+  margin-left: 2vh;
+  margin-right: 2vw;
+  color: #e4e7eb;
+  height: 1px;
+}
+.faqName {
+  font-size: 18px;
+  margin-left: 5px;
+  margin-top: 3vh;
+  color: #52606d;
+}
